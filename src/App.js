@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Switch, Route, NavLink } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 
 import HomePage from "./pages/homePage";
 import AboutPage from "./pages/aboutPage";
